@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Training2018</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="itemCode">Item Code: </string>
+    <string name="dummyItemCode">DUMMY ITEM CODE</string>
+    <string name="itemName">Item Name: </string>
+    <string name="dummyItemName">DUMMY ITEM NAME</string>
+    <string name="itemGroup">Item Group: </string>
+    <string name="dummyItemGroup">DUMMY ITEM GROUP</string>
+    <string name="whsCode">Warehouse Code</string>
+    <string name="dummyWhsCode">DUMMY WAREHOUSE CODE</string>
+    <string name="qty">Qty</string>
+    <string name="dummyQty">DUMMY QTY</string>
+</resources>
